@@ -5,7 +5,7 @@ This repository contains a collection of AI/ML projects focused on solving real-
 
 ## Projects
 
-### 🎯 [Churn Risk Intelligence](./projects/churn-risk-intelligence/)
+### [Churn Risk Intelligence](./projects/churn-risk-intelligence/)
 **Customer Churn Prediction & Retention Analytics**
 - **Objective**: Predict customer churn to enable proactive retention strategies
 - **Dataset**: Telco Customer Churn (Kaggle)
