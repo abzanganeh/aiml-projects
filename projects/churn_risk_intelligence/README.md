@@ -48,8 +48,8 @@ AIML_projects/
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AIML_projects.git
-cd AIML_projects
+git clone https://github.com/abzanganeh/aiml-projects.git
+cd AIML_projects/projects/churn_risk_intelligence
 ```
 
 2. Create a virtual environment:
